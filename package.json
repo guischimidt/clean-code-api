@@ -4,8 +4,8 @@
   "description": "",
   "main": "teste.js",
   "scripts": {
-    "test": "jest",
-    "test:staged": "jest"
+    "test": "jest --passWithNoTests",
+    "test:staged": "jest --passWithNoTests"
   },
   "keywords": [],
   "author": "Guilherme Schimidt <guigoschimidt@gmail.com> (https://github.com/guischimidt)",
